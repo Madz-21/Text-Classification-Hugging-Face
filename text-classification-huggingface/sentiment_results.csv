@@ -1,0 +1,11 @@
+text,label,confidence
+I love this product! It's amazing!,positive,0.9873653650283813
+This is the worst experience ever.,negative,0.945343554019928
+The weather is okay today.,positive,0.9460670351982117
+I'm so happy with this purchase!,positive,0.9890949130058289
+Not satisfied with the service.,negative,0.8876495957374573
+This movie was fantastic!,positive,0.9830237030982971
+The food was terrible.,negative,0.9396355748176575
+I feel neutral about this.,negative,0.5429129600524902
+Excellent customer support!,positive,0.9638152122497559
+"Could be better, but not bad.",neutral,0.4386872947216034

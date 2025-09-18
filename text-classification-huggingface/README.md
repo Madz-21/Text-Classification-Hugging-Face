@@ -20,7 +20,7 @@ Make sure you have Python 3.7+ installed on your system.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/username/text-classification-huggingface.git
+git clone https://github.com/Madz-21/text-classification-huggingface.git
 cd text-classification-huggingface
 ```
 
@@ -211,3 +211,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - The open source community supporting ML development
 
 By AhmadSP 💌
+
